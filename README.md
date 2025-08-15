@@ -14,7 +14,7 @@ A simple React application that fetches a list of students from an external API,
 
 ## Installation
 1. Clone the repository:
-   - git clone 
+   - git clone https://github.com/Prashant0016/Student-Management-System.git
 
 2. Install dependencies:
    - npm install
@@ -32,7 +32,8 @@ Create an optimized production build:
 npm run build
 
 ## Screenshots
-
+<img width="1489" height="827" alt="Screenshot 2025-08-14 165635" src="https://github.com/user-attachments/assets/d00dc217-3dd0-448a-9866-0269cd559ab8" />
+<img width="749" height="444" alt="Screenshot 2025-08-14 165710" src="https://github.com/user-attachments/assets/8974f06a-c760-454b-97e2-ef95713de4de" />
 
 ## Tech Stack
 
