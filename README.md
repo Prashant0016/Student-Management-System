@@ -41,7 +41,7 @@ npm run build
 * Create React App
 
 ## Live Demo
-
+[View the project on Netlify](https://studentmanagementsystem-123.netlify.app/)
 
 
 
